@@ -1,6 +1,9 @@
-## Hi there 👋
+### Boas vindas ao meu perfil  💙
 
-<!--
+Meu nome é Maria Clara
+
+Estou estudando no Alura;
+
 **midnight569/midnight569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ 
